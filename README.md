@@ -1,12 +1,6 @@
-# CPSC 559 W2023 Group Project
+# Matchmaker
 
-Authors
-
-* Shaemus Melvin
-* Braden Foxcroft
-* Andrew Barnett
-* Hayden McNally
-* Lubdhak Juyal
+This game was made as a project for my CPSC559 course in uni, along with 4 other team members
 
 Run the game with:
 
@@ -21,6 +15,6 @@ Additionally, there are several flags:
 
 To skip all the setup (it will automatically create a room or connect to the first available one)
 
-To play the game, click and drag on a circle of your own color (look for the color with the black bar at the bottom) to choose its path.  
-If a player is absent, their box will become grey, and an AI will take over and control their circles.  
-Players can disconnect whenever, and the game will restructure to keep everything working.  
+To play the game, click and drag on a circle of your own color (look for the color with the black bar at the bottom) to choose its path.
+If a player is absent, their box will become grey, and an AI will take over and control their circles.
+Players can disconnect whenever, and the game will restructure to keep everything working.
